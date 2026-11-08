@@ -1,0 +1,5441 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000101",
+        "koaza": "旭",
+        "koaza_k": "アサヒ",
+        "name": "旭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.269936,
+          40.800858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000102",
+        "koaza": "栄沼",
+        "koaza_k": "サカイヌマ",
+        "name": "栄沼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.275939,
+          40.743144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000103",
+        "koaza": "栄町",
+        "koaza_k": "サカエチョウ",
+        "name": "栄町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.258467,
+          40.721256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000104",
+        "koaza": "乙供",
+        "koaza_k": "オットモ",
+        "koaza_r": "Ottomo",
+        "name": "乙供"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.211947,
+          40.776494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000105",
+        "koaza": "乙部",
+        "koaza_k": "オトベ",
+        "name": "乙部"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.252242,
+          40.803247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000106",
+        "koaza": "下清水目",
+        "koaza_k": "シモシミズメ",
+        "name": "下清水目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.125281,
+          40.834439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000107",
+        "koaza": "花向町",
+        "koaza_k": "ハナムカイチョウ",
+        "name": "花向町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.26232800000002,
+          40.736783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000108",
+        "koaza": "輝ヶ丘",
+        "koaza_k": "テルガオカ",
+        "name": "輝ヶ丘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.225944,
+          40.837761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000109",
+        "koaza": "輝ケ丘",
+        "koaza_k": "テルガオカ",
+        "name": "輝ケ丘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.229586,
+          40.8128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000110",
+        "koaza": "境ノ沢",
+        "koaza_k": "サカイノサワ",
+        "name": "境ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.233256,
+          40.717781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000111",
+        "koaza": "郡山",
+        "koaza_k": "コオリヤマ",
+        "name": "郡山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.297742,
+          40.768247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000112",
+        "koaza": "戸舘",
+        "koaza_k": "トダテ",
+        "name": "戸舘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.184506,
+          40.698975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000113",
+        "koaza": "五十嵐",
+        "koaza_k": "イガラシ",
+        "koaza_r": "Igarashi",
+        "name": "五十嵐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.269322,
+          40.848014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000114",
+        "koaza": "御料",
+        "koaza_k": "ゴリョウ",
+        "name": "御料"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.285519,
+          40.797747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000115",
+        "koaza": "向山",
+        "koaza_k": "ムカイヤマ",
+        "name": "向山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.306272,
+          40.711089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000116",
+        "koaza": "向平",
+        "koaza_k": "ムカイタイ",
+        "koaza_r": "Mukaitai",
+        "name": "向平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.135781,
+          40.806883000000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000117",
+        "koaza": "甲地",
+        "koaza_k": "カッチ",
+        "name": "甲地"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27882500000004,
+          40.775719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000118",
+        "koaza": "才市田",
+        "koaza_k": "サイチタ",
+        "name": "才市田"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.223894,
+          40.717114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000119",
+        "koaza": "坂下町",
+        "koaza_k": "サカシタチョウ",
+        "name": "坂下町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21585100000001,
+          40.77915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000120",
+        "koaza": "柵",
+        "koaza_k": "シガラミ",
+        "name": "柵"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.245631,
+          40.915601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000121",
+        "koaza": "十二里",
+        "koaza_k": "ジュウニサト",
+        "name": "十二里"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.213556,
+          40.874761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000122",
+        "koaza": "小川原",
+        "koaza_k": "コガワラ",
+        "name": "小川原"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.295828,
+          40.710783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000123",
+        "koaza": "沼崎本村",
+        "koaza_k": "ヌマサキホンソン",
+        "name": "沼崎本村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.284967,
+          40.722894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000124",
+        "koaza": "上畑",
+        "koaza_k": "カミハタ",
+        "name": "上畑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.194642,
+          40.798967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000125",
+        "koaza": "上板橋",
+        "koaza_k": "カミイタバシ",
+        "name": "上板橋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.126308,
+          40.810411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000126",
+        "koaza": "上野",
+        "koaza_k": "ウワノ",
+        "koaza_r": "Uwano",
+        "name": "上野"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.245404,
+          40.728033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000127",
+        "koaza": "新舘",
+        "koaza_k": "ニイダテ",
+        "koaza_r": "Niidate",
+        "name": "新舘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.178478,
+          40.700614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000128",
+        "koaza": "新山",
+        "koaza_k": "ニイヤマ",
+        "name": "新山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.25405,
+          40.713228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000129",
+        "koaza": "新町",
+        "koaza_k": "シンマチ",
+        "name": "新町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.213642,
+          40.7773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000130",
+        "koaza": "赤平",
+        "koaza_k": "アカヒラ",
+        "name": "赤平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.191644,
+          40.703725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000131",
+        "koaza": "切左坂",
+        "koaza_k": "キリサザカ",
+        "name": "切左坂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.256519,
+          40.821942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000132",
+        "koaza": "千曳",
+        "koaza_k": "チビキ",
+        "koaza_r": "Chibiki",
+        "name": "千曳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.133281,
+          40.811161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000133",
+        "koaza": "千代畑",
+        "koaza_k": "チヨハタ",
+        "name": "千代畑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.186864,
+          40.8213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000134",
+        "koaza": "蒼前",
+        "koaza_k": "ソウゼン",
+        "name": "蒼前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.277158,
+          40.782664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000135",
+        "koaza": "大浦",
+        "koaza_k": "オオウラ",
+        "koaza_r": "Oura",
+        "name": "大浦"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.205617,
+          40.710031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000136",
+        "koaza": "大浦山",
+        "koaza_k": "オオウラヤマ",
+        "name": "大浦山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22145,
+          40.704558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000137",
+        "koaza": "大向旗屋",
+        "koaza_k": "オオムカイハタヤ",
+        "name": "大向旗屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.213229,
+          40.796883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000138",
+        "koaza": "大池",
+        "koaza_k": "オオイケ",
+        "name": "大池"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27254400000004,
+          40.843764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000139",
+        "koaza": "大洞",
+        "koaza_k": "オオホラ",
+        "name": "大洞"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.235006,
+          40.696531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000140",
+        "koaza": "滝沢",
+        "koaza_k": "タキサワ",
+        "name": "滝沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.277936,
+          40.800969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000141",
+        "koaza": "中村",
+        "koaza_k": "ナカムラ",
+        "name": "中村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.284047,
+          40.831136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000142",
+        "koaza": "中岫平",
+        "koaza_k": "ナカグキタイ",
+        "name": "中岫平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.218839,
+          40.709475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000143",
+        "koaza": "虫神",
+        "koaza_k": "ムシガミ",
+        "name": "虫神"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.277244,
+          40.682783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000144",
+        "koaza": "朝日",
+        "koaza_k": "アサヒ",
+        "name": "朝日"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.194058,
+          40.769161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000145",
+        "koaza": "土橋",
+        "koaza_k": "ツチハシ",
+        "name": "土橋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.293769,
+          40.764886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000146",
+        "koaza": "塔ノ沢",
+        "koaza_k": "トウノサワ",
+        "name": "塔ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.195135,
+          40.813778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000147",
+        "koaza": "湯沢",
+        "koaza_k": "ユザワ",
+        "koaza_r": "Yuzawa",
+        "name": "湯沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.132169,
+          40.831439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000148",
+        "koaza": "徳万舘",
+        "koaza_k": "トクマンダテ",
+        "name": "徳万舘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.309408,
+          40.767108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000149",
+        "koaza": "徳万才",
+        "koaza_k": "トクマンザイ",
+        "name": "徳万才"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2182,
+          40.714197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000150",
+        "koaza": "南町",
+        "koaza_k": "ミナミチョウ",
+        "name": "南町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.262967,
+          40.7277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000151",
+        "koaza": "南平",
+        "koaza_k": "ミナミタイ",
+        "name": "南平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.158864,
+          40.796967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000152",
+        "koaza": "巴蘭",
+        "koaza_k": "バアラン",
+        "name": "巴蘭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.276547,
+          40.796164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000153",
+        "koaza": "馬込",
+        "koaza_k": "マゴメ",
+        "name": "馬込"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.201697,
+          40.772133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000154",
+        "koaza": "八幡",
+        "koaza_k": "ヤワタ",
+        "name": "八幡"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.189533,
+          40.699169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000155",
+        "koaza": "美須々",
+        "koaza_k": "ミスズ",
+        "name": "美須々"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.242062,
+          40.899242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000156",
+        "koaza": "表町",
+        "koaza_k": "オモテチョウ",
+        "name": "表町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.223836,
+          40.780772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000157",
+        "koaza": "浜台",
+        "koaza_k": "ハマダイ",
+        "koaza_r": "Hamadai",
+        "name": "浜台"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.296047,
+          40.813969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000158",
+        "koaza": "夫雑原",
+        "koaza_k": "ブゾウハラ",
+        "koaza_r": "Buzohara",
+        "name": "夫雑原"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.159531,
+          40.820467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000159",
+        "koaza": "保戸沢",
+        "koaza_k": "ホドサワ",
+        "name": "保戸沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.252103,
+          40.788136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000160",
+        "koaza": "菩提寺",
+        "koaza_k": "ボダイジ",
+        "name": "菩提寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.278272,
+          40.703728000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000161",
+        "koaza": "豊ヶ丘",
+        "koaza_k": "トヨガオカ",
+        "name": "豊ヶ丘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.161669,
+          40.830383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000162",
+        "koaza": "豊栄",
+        "koaza_k": "トヨサカエ",
+        "name": "豊栄"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.274019,
+          40.810636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000163",
+        "koaza": "豊瀬",
+        "koaza_k": "トヨセ",
+        "name": "豊瀬"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.257294,
+          40.889514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000164",
+        "koaza": "豊前",
+        "koaza_k": "トヨマエ",
+        "name": "豊前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.266378,
+          40.866792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000165",
+        "koaza": "豊田",
+        "koaza_k": "トヨタ",
+        "name": "豊田"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.248856,
+          40.747089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000166",
+        "koaza": "豊畑",
+        "koaza_k": "トヨハタ",
+        "name": "豊畑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.230889,
+          40.884594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000167",
+        "koaza": "北栄",
+        "koaza_k": "キタサカエ",
+        "name": "北栄"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.169114,
+          40.810161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000168",
+        "koaza": "本町",
+        "koaza_k": "ホンチョウ",
+        "name": "本町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.208919,
+          40.781106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000169",
+        "koaza": "明美",
+        "koaza_k": "アケミ",
+        "name": "明美"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.205503,
+          40.785633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000170",
+        "koaza": "緑町",
+        "koaza_k": "ミドリチョウ",
+        "name": "緑町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.217531,
+          40.774828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000171",
+        "koaza": "林口",
+        "koaza_k": "リンコウ",
+        "name": "林口"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.176142,
+          40.8038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000172",
+        "koaza": "狼ノ沢",
+        "koaza_k": "オイノサワ",
+        "koaza_r": "Oinosawa",
+        "name": "狼ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.286325,
+          40.802053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000173",
+        "koaza": "萠出",
+        "koaza_k": "モダシ",
+        "name": "萠出"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.25604700000002,
+          40.828692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0000174",
+        "koaza": "蓼内",
+        "koaza_k": "タテナイ",
+        "name": "蓼内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.290943,
+          40.756995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0001000",
+        "oaza_cho": "字赤川橋ノ上",
+        "oaza_cho_k": "アザアカガワハシノカミ",
+        "csv_ranges": {
+          "地番": {
+            "start": 84629,
+            "length": 7562
+          }
+        },
+        "name": "字赤川橋ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.215255,
+          40.767315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0002000",
+        "oaza_cho": "字赤川橋ノ下",
+        "oaza_cho_k": "アザアカガワハシノシモ",
+        "csv_ranges": {
+          "地番": {
+            "start": 92191,
+            "length": 5924
+          }
+        },
+        "name": "字赤川橋ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.223467,
+          40.760487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0003000",
+        "oaza_cho": "字赤川道",
+        "oaza_cho_k": "アザアカガワミチ",
+        "oaza_cho_r": "Akagawamichi",
+        "csv_ranges": {
+          "地番": {
+            "start": 98115,
+            "length": 6995
+          }
+        },
+        "name": "字赤川道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.221904,
+          40.770706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0004000",
+        "oaza_cho": "字空久保",
+        "oaza_cho_k": "アザアキクボ",
+        "oaza_cho_r": "Akikubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 105110,
+            "length": 21696
+          }
+        },
+        "name": "字空久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.20270800000003,
+          40.8582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0005000",
+        "oaza_cho": "字秋取山",
+        "oaza_cho_k": "アザアキトリヤマ",
+        "csv_ranges": {
+          "地番": {
+            "start": 126806,
+            "length": 6343
+          }
+        },
+        "name": "字秋取山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.101517,
+          40.80887500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0006000",
+        "oaza_cho": "字家ノ上平",
+        "oaza_cho_k": "アザイエノカミタイラ",
+        "csv_ranges": {
+          "地番": {
+            "start": 133149,
+            "length": 3491
+          }
+        },
+        "name": "字家ノ上平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.286834,
+          40.768129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0007000",
+        "oaza_cho": "字家ノ下タ",
+        "oaza_cho_k": "アザイエノシタ",
+        "oaza_cho_r": "Ienoshita",
+        "csv_ranges": {
+          "地番": {
+            "start": 136640,
+            "length": 10865
+          }
+        },
+        "name": "字家ノ下タ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.128481,
+          40.81532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0008000",
+        "oaza_cho": "字家ノ下モ",
+        "oaza_cho_k": "アザイエノシモ",
+        "csv_ranges": {
+          "地番": {
+            "start": 147505,
+            "length": 2351
+          }
+        },
+        "name": "字家ノ下モ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16356,
+          40.820424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0009000",
+        "oaza_cho": "字家ノ前",
+        "oaza_cho_k": "アザイエノマエ",
+        "oaza_cho_r": "Ienomae",
+        "csv_ranges": {
+          "地番": {
+            "start": 149856,
+            "length": 3496
+          }
+        },
+        "name": "字家ノ前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.126092,
+          40.83334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0010000",
+        "oaza_cho": "字五十嵐",
+        "oaza_cho_k": "アザイガラシ",
+        "oaza_cho_r": "Igarashi",
+        "csv_ranges": {
+          "地番": {
+            "start": 153352,
+            "length": 18511
+          }
+        },
+        "name": "字五十嵐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.261659,
+          40.867116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0011000",
+        "oaza_cho": "字石坂",
+        "oaza_cho_k": "アザイシザカ",
+        "oaza_cho_r": "Ishizaka",
+        "csv_ranges": {
+          "地番": {
+            "start": 171863,
+            "length": 6949
+          }
+        },
+        "name": "字石坂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.127555,
+          40.830856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0012000",
+        "oaza_cho": "字石文",
+        "oaza_cho_k": "アザイシブミ",
+        "csv_ranges": {
+          "地番": {
+            "start": 178812,
+            "length": 2864
+          }
+        },
+        "name": "字石文"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.172951,
+          40.794078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0013000",
+        "oaza_cho": "字板橋平",
+        "oaza_cho_k": "アザイタバシタイラ",
+        "csv_ranges": {
+          "地番": {
+            "start": 181676,
+            "length": 4549
+          }
+        },
+        "name": "字板橋平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.100461,
+          40.81421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0014000",
+        "oaza_cho": "字板橋山",
+        "oaza_cho_k": "アザイタバシヤマ",
+        "oaza_cho_r": "Itabashiyama",
+        "csv_ranges": {
+          "地番": {
+            "start": 186225,
+            "length": 7948
+          }
+        },
+        "name": "字板橋山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.127073,
+          40.820069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0015000",
+        "oaza_cho": "字岩間手橋ノ上",
+        "oaza_cho_k": "アザイワマテハシノカミ",
+        "csv_ranges": {
+          "地番": {
+            "start": 194173,
+            "length": 2902
+          }
+        },
+        "name": "字岩間手橋ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.256486,
+          40.811369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0016000",
+        "oaza_cho": "字後久保",
+        "oaza_cho_k": "アザウシロクボ",
+        "oaza_cho_r": "Ushirokubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 197075,
+            "length": 21554
+          }
+        },
+        "name": "字後久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.302773,
+          40.770524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0017000",
+        "oaza_cho": "字内蛯沢坂ノ下",
+        "oaza_cho_k": "アザウチエビサワサカノシタ",
+        "csv_ranges": {
+          "地番": {
+            "start": 218629,
+            "length": 4892
+          }
+        },
+        "name": "字内蛯沢坂ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.222948,
+          40.765645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0018000",
+        "oaza_cho": "字内蛯沢道ノ上",
+        "oaza_cho_k": "アザウチエビサワミチノカミ",
+        "oaza_cho_r": "Uchiebisawa Michinokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 223521,
+            "length": 27348
+          }
+        },
+        "name": "字内蛯沢道ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.218745,
+          40.772419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0019000",
+        "oaza_cho": "字内蛯沢向",
+        "oaza_cho_k": "アザウチエビサワムカイ",
+        "oaza_cho_r": "Uchiebisawa Mukai",
+        "csv_ranges": {
+          "地番": {
+            "start": 250869,
+            "length": 19432
+          }
+        },
+        "name": "字内蛯沢向"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.229474,
+          40.769718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0020000",
+        "oaza_cho": "字宇道坂",
+        "oaza_cho_k": "アザウドウサカ",
+        "oaza_cho_r": "Udosaka",
+        "csv_ranges": {
+          "地番": {
+            "start": 270301,
+            "length": 2161
+          }
+        },
+        "name": "字宇道坂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.096203,
+          40.817259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0021000",
+        "oaza_cho": "字姥沢",
+        "oaza_cho_k": "アザウバサワ",
+        "oaza_cho_r": "Ubasawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 272462,
+            "length": 8894
+          }
+        },
+        "name": "字姥沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.218671,
+          40.89353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0022000",
+        "oaza_cho": "字馬尻",
+        "oaza_cho_k": "アザウマジリ",
+        "oaza_cho_r": "Umajiri",
+        "csv_ranges": {
+          "地番": {
+            "start": 281356,
+            "length": 2037
+          }
+        },
+        "name": "字馬尻"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.200324,
+          40.79446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0023000",
+        "oaza_cho": "字狼ノ沢",
+        "oaza_cho_k": "アザオイノサワ",
+        "oaza_cho_r": "Oinosawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 283393,
+            "length": 10071
+          }
+        },
+        "name": "字狼ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29188200000002,
+          40.802113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0024000",
+        "oaza_cho": "字大久保",
+        "oaza_cho_k": "アザオオクボ",
+        "oaza_cho_r": "Okubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 293464,
+            "length": 12648
+          }
+        },
+        "name": "字大久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.315754,
+          40.751715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0025000",
+        "oaza_cho": "字大久保平",
+        "oaza_cho_k": "アザオオクボタイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 306112,
+            "length": 5791
+          }
+        },
+        "name": "字大久保平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.19664,
+          40.832852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0026000",
+        "oaza_cho": "字大沢",
+        "oaza_cho_k": "アザオオサワ",
+        "oaza_cho_r": "Osawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 311903,
+            "length": 7445
+          }
+        },
+        "name": "字大沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.214226,
+          40.80548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0027000",
+        "oaza_cho": "字大平",
+        "oaza_cho_k": "アザオオダイラ",
+        "oaza_cho_r": "Odaira",
+        "csv_ranges": {
+          "地番": {
+            "start": 319348,
+            "length": 27581
+          }
+        },
+        "name": "字大平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147865,
+          40.826149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0028000",
+        "oaza_cho": "字太田平",
+        "oaza_cho_k": "アザオオダタイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 346929,
+            "length": 16446
+          }
+        },
+        "name": "字太田平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.208299,
+          40.877399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0029000",
+        "oaza_cho": "字大撫沢",
+        "oaza_cho_k": "アザオオナデサワ",
+        "oaza_cho_r": "Onadesawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 363375,
+            "length": 4462
+          }
+        },
+        "name": "字大撫沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.137103,
+          40.843639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0030000",
+        "oaza_cho": "字大籏屋",
+        "oaza_cho_k": "アザオオハタヤ",
+        "oaza_cho_r": "Ohataya",
+        "csv_ranges": {
+          "地番": {
+            "start": 367837,
+            "length": 1846
+          }
+        },
+        "name": "字大籏屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.198895,
+          40.796557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0031000",
+        "oaza_cho": "字大向",
+        "oaza_cho_k": "アザオオムカイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 369683,
+            "length": 1442
+          }
+        },
+        "name": "字大向"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.164055,
+          40.843462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0032000",
+        "oaza_cho": "字往来ノ上",
+        "oaza_cho_k": "アザオオライノカミ",
+        "oaza_cho_r": "Orainokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 371125,
+            "length": 12919
+          }
+        },
+        "name": "字往来ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.270755,
+          40.77422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0033000",
+        "oaza_cho": "字往来ノ下",
+        "oaza_cho_k": "アザオオライノシモ",
+        "oaza_cho_r": "Orainoshimo",
+        "csv_ranges": {
+          "地番": {
+            "start": 384044,
+            "length": 22678
+          }
+        },
+        "name": "字往来ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.285604,
+          40.776713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0034000",
+        "oaza_cho": "字岡端",
+        "oaza_cho_k": "アザオカハタ",
+        "csv_ranges": {
+          "地番": {
+            "start": 406722,
+            "length": 1202
+          }
+        },
+        "name": "字岡端"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.122054,
+          40.829434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0035000",
+        "oaza_cho": "字小沢",
+        "oaza_cho_k": "アザオザワ",
+        "oaza_cho_r": "Ozawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 407924,
+            "length": 3057
+          }
+        },
+        "name": "字小沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.193758,
+          40.814555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0036000",
+        "oaza_cho": "字落合",
+        "oaza_cho_k": "アザオチアイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 410981,
+            "length": 2798
+          }
+        },
+        "name": "字落合"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.256584,
+          40.7939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0037000",
+        "oaza_cho": "字乙越",
+        "oaza_cho_k": "アザオツコシ",
+        "oaza_cho_r": "Otsukoshi",
+        "csv_ranges": {
+          "地番": {
+            "start": 413779,
+            "length": 15700
+          }
+        },
+        "name": "字乙越"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2754,
+          40.770607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0038000",
+        "oaza_cho": "字乙供",
+        "oaza_cho_k": "アザオツトモ",
+        "oaza_cho_r": "Ottomo",
+        "csv_ranges": {
+          "地番": {
+            "start": 429479,
+            "length": 27287
+          }
+        },
+        "name": "字乙供"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.207513,
+          40.76799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0039000",
+        "oaza_cho": "字乙供山",
+        "oaza_cho_k": "アザオツトモヤマ",
+        "oaza_cho_r": "Ottomoyama",
+        "csv_ranges": {
+          "地番": {
+            "start": 456766,
+            "length": 7381
+          }
+        },
+        "name": "字乙供山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.197624,
+          40.780629000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0040000",
+        "oaza_cho": "字乙部橋ノ上",
+        "oaza_cho_k": "アザオトベハシノカミ",
+        "csv_ranges": {
+          "地番": {
+            "start": 464147,
+            "length": 5289
+          }
+        },
+        "name": "字乙部橋ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.254214,
+          40.810942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0041000",
+        "oaza_cho": "字乙部道ノ上",
+        "oaza_cho_k": "アザオトベミチノカミ",
+        "oaza_cho_r": "Otobe Michinokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 469436,
+            "length": 6912
+          }
+        },
+        "name": "字乙部道ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.254938,
+          40.804924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0042000",
+        "oaza_cho": "字乙部道ノ下",
+        "oaza_cho_k": "アザオトベミチノシモ",
+        "oaza_cho_r": "Otobe Michinoshimo",
+        "csv_ranges": {
+          "地番": {
+            "start": 476348,
+            "length": 6173
+          }
+        },
+        "name": "字乙部道ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.256795,
+          40.799366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0043000",
+        "oaza_cho": "字ガス平",
+        "oaza_cho_k": "アザガスタイ",
+        "oaza_cho_r": "Gasutai",
+        "csv_ranges": {
+          "地番": {
+            "start": 482521,
+            "length": 124967
+          }
+        },
+        "name": "字ガス平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.242896,
+          40.900596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0044000",
+        "oaza_cho": "字数牛",
+        "oaza_cho_k": "アザカソシ",
+        "oaza_cho_r": "Kasoshi",
+        "csv_ranges": {
+          "地番": {
+            "start": 607488,
+            "length": 7027
+          }
+        },
+        "name": "字数牛"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.232848,
+          40.876475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0045000",
+        "oaza_cho": "字数牛尻",
+        "oaza_cho_k": "アザカソシジリ",
+        "csv_ranges": {
+          "地番": {
+            "start": 614515,
+            "length": 1295
+          }
+        },
+        "name": "字数牛尻"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.241247,
+          40.87078300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0046000",
+        "oaza_cho": "字上板橋家ノ後",
+        "oaza_cho_k": "アザカミイタバシイエノウシロ",
+        "oaza_cho_r": "Kamiitabashi Ienoshiro",
+        "csv_ranges": {
+          "地番": {
+            "start": 615810,
+            "length": 5915
+          }
+        },
+        "name": "字上板橋家ノ後"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.118504,
+          40.810919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0047000",
+        "oaza_cho": "字上久保",
+        "oaza_cho_k": "アザカミクボ",
+        "oaza_cho_r": "Kamikubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 621725,
+            "length": 10520
+          }
+        },
+        "name": "字上久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.290583,
+          40.76329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0048000",
+        "oaza_cho": "字上笹橋",
+        "oaza_cho_k": "アザカミササバシ",
+        "oaza_cho_r": "Kamisasabashi",
+        "csv_ranges": {
+          "地番": {
+            "start": 632245,
+            "length": 16528
+          }
+        },
+        "name": "字上笹橋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.214296,
+          40.779592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0049000",
+        "oaza_cho": "字上清水目",
+        "oaza_cho_k": "アザカミシミズメ",
+        "oaza_cho_r": "Kamishimizume",
+        "csv_ranges": {
+          "地番": {
+            "start": 648773,
+            "length": 5563
+          }
+        },
+        "name": "字上清水目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.11649,
+          40.827722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0050000",
+        "oaza_cho": "字川向",
+        "oaza_cho_k": "アザカワムカイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 654336,
+            "length": 1386
+          }
+        },
+        "name": "字川向"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.098562,
+          40.815948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0051000",
+        "oaza_cho": "字川迎",
+        "oaza_cho_k": "アザカワムカエ",
+        "csv_ranges": {
+          "地番": {
+            "start": 655722,
+            "length": 10984
+          }
+        },
+        "name": "字川迎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.12034,
+          40.805641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0052000",
+        "oaza_cho": "字岩渡沢",
+        "oaza_cho_k": "アザガンドサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 666706,
+            "length": 7230
+          }
+        },
+        "name": "字岩渡沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22095,
+          40.798668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0053000",
+        "oaza_cho": "字北膳前",
+        "oaza_cho_k": "アザキタゼンマエ",
+        "oaza_cho_r": "Kitazemmae",
+        "csv_ranges": {
+          "地番": {
+            "start": 673936,
+            "length": 3053
+          }
+        },
+        "name": "字北膳前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.208461,
+          40.785917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0054000",
+        "oaza_cho": "字狐沢",
+        "oaza_cho_k": "アザキツネサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 676989,
+            "length": 283
+          }
+        },
+        "name": "字狐沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.162233,
+          40.852105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0055000",
+        "oaza_cho": "字狐沢山",
+        "oaza_cho_k": "アザキツネサワヤマ",
+        "oaza_cho_r": "Kitsunesawayama",
+        "csv_ranges": {
+          "地番": {
+            "start": 677272,
+            "length": 2414
+          }
+        },
+        "name": "字狐沢山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.158641,
+          40.849923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0056000",
+        "oaza_cho": "字切左坂道ノ上",
+        "oaza_cho_k": "アザキリサザカミチノカミ",
+        "oaza_cho_r": "Kirisazakamichinokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 679686,
+            "length": 15469
+          }
+        },
+        "name": "字切左坂道ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.26553800000002,
+          40.827212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0057000",
+        "oaza_cho": "字切左坂道ノ下",
+        "oaza_cho_k": "アザキリサザカミチノシモ",
+        "oaza_cho_r": "Kirisazakamichinoshimo",
+        "csv_ranges": {
+          "地番": {
+            "start": 695155,
+            "length": 13297
+          }
+        },
+        "name": "字切左坂道ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.259373,
+          40.820555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0058000",
+        "oaza_cho": "字熊堂",
+        "oaza_cho_k": "アザクマドウ",
+        "csv_ranges": {
+          "地番": {
+            "start": 708452,
+            "length": 2760
+          }
+        },
+        "name": "字熊堂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.289216,
+          40.821721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0059000",
+        "oaza_cho": "字栗山添",
+        "oaza_cho_k": "アザクリヤマゾイ",
+        "oaza_cho_r": "Kuriyamazoi",
+        "csv_ranges": {
+          "地番": {
+            "start": 711212,
+            "length": 6965
+          }
+        },
+        "name": "字栗山添"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.216917,
+          40.79074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0060000",
+        "oaza_cho": "字黒志多",
+        "oaza_cho_k": "アザクロシダ",
+        "csv_ranges": {
+          "地番": {
+            "start": 718177,
+            "length": 4310
+          }
+        },
+        "name": "字黒志多"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.296203,
+          40.750045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0061000",
+        "oaza_cho": "字枋木",
+        "oaza_cho_k": "アザコボノキ",
+        "oaza_cho_r": "Kobonoki",
+        "csv_ranges": {
+          "地番": {
+            "start": 722487,
+            "length": 16247
+          }
+        },
+        "name": "字枋木"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.239258,
+          40.819015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0062000",
+        "oaza_cho": "字塞ノ神",
+        "oaza_cho_k": "アザサイノカミ",
+        "oaza_cho_r": "Sainokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 738734,
+            "length": 1946
+          }
+        },
+        "name": "字塞ノ神"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.087307,
+          40.81563100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0063000",
+        "oaza_cho": "字坂下",
+        "oaza_cho_k": "アザサカシタ",
+        "csv_ranges": {
+          "地番": {
+            "start": 740680,
+            "length": 2821
+          }
+        },
+        "name": "字坂下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.160285,
+          40.84181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0064000",
+        "oaza_cho": "字坂ノ下",
+        "oaza_cho_k": "アザサカノシタ",
+        "oaza_cho_r": "Sakanoshita",
+        "csv_ranges": {
+          "地番": {
+            "start": 743501,
+            "length": 4996
+          }
+        },
+        "name": "字坂ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.257402,
+          40.79037700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0065000",
+        "oaza_cho": "字笹久保",
+        "oaza_cho_k": "アザササクボ",
+        "csv_ranges": {
+          "地番": {
+            "start": 748497,
+            "length": 729
+          }
+        },
+        "name": "字笹久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.287622,
+          40.771438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0066000",
+        "oaza_cho": "字淋代",
+        "oaza_cho_k": "アザサビシロ",
+        "oaza_cho_r": "Sabishiro",
+        "csv_ranges": {
+          "地番": {
+            "start": 749226,
+            "length": 3560
+          }
+        },
+        "name": "字淋代"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.217834,
+          40.867368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0067000",
+        "oaza_cho": "字淋代下山",
+        "oaza_cho_k": "アザサビシロシモヤマ",
+        "csv_ranges": {
+          "地番": {
+            "start": 752786,
+            "length": 9867
+          }
+        },
+        "name": "字淋代下山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.252664,
+          40.863227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0068000",
+        "oaza_cho": "字漆玉",
+        "oaza_cho_k": "アザシツタマ",
+        "oaza_cho_r": "Shittama",
+        "csv_ranges": {
+          "地番": {
+            "start": 762653,
+            "length": 7323
+          }
+        },
+        "name": "字漆玉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.289309,
+          40.789051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0069000",
+        "oaza_cho": "字篠内平",
+        "oaza_cho_k": "アザシノナイタイ",
+        "oaza_cho_r": "Shinonaitai",
+        "csv_ranges": {
+          "地番": {
+            "start": 769976,
+            "length": 28407
+          }
+        },
+        "name": "字篠内平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.187297,
+          40.788817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0070000",
+        "oaza_cho": "字清水目深山",
+        "oaza_cho_k": "アザシミズメフカヤマ",
+        "csv_ranges": {
+          "地番": {
+            "start": 798383,
+            "length": 586
+          }
+        },
+        "name": "字清水目深山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.09457,
+          40.804698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0071000",
+        "oaza_cho": "字清水目向",
+        "oaza_cho_k": "アザシミズメムカイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 798969,
+            "length": 1665
+          }
+        },
+        "name": "字清水目向"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.109846,
+          40.817394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0072000",
+        "oaza_cho": "字清水目山",
+        "oaza_cho_k": "アザシミズメヤマ",
+        "name": "字清水目山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.118981,
+          40.819083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0073000",
+        "oaza_cho": "字下板橋",
+        "oaza_cho_k": "アザシモイタバシ",
+        "oaza_cho_r": "Shimoitabashi",
+        "csv_ranges": {
+          "地番": {
+            "start": 800634,
+            "length": 4276
+          }
+        },
+        "name": "字下板橋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.142998,
+          40.808688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0074000",
+        "oaza_cho": "字下笹橋",
+        "oaza_cho_k": "アザシモササバシ",
+        "oaza_cho_r": "Shimosasabashi",
+        "csv_ranges": {
+          "地番": {
+            "start": 804910,
+            "length": 4670
+          }
+        },
+        "name": "字下笹橋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.214431,
+          40.775851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0075000",
+        "oaza_cho": "字下山",
+        "oaza_cho_k": "アザシモヤマ",
+        "oaza_cho_r": "Shimoyama",
+        "csv_ranges": {
+          "地番": {
+            "start": 809580,
+            "length": 7401
+          }
+        },
+        "name": "字下山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.218333,
+          40.787628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0076000",
+        "oaza_cho": "字素柄邸",
+        "oaza_cho_k": "アザスガラヤシキ",
+        "oaza_cho_r": "Sugarayashiki",
+        "csv_ranges": {
+          "地番": {
+            "start": 816981,
+            "length": 3796
+          }
+        },
+        "name": "字素柄邸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27484,
+          40.7797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0077000",
+        "oaza_cho": "字堰合",
+        "oaza_cho_k": "アザセキアイ",
+        "name": "字堰合"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.113626,
+          40.821194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0078000",
+        "oaza_cho": "字堰向",
+        "oaza_cho_k": "アザセキムカイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 820777,
+            "length": 1551
+          }
+        },
+        "name": "字堰向"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.116561,
+          40.82441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0079000",
+        "oaza_cho": "字膳前",
+        "oaza_cho_k": "アザゼンマエ",
+        "oaza_cho_r": "Zemmae",
+        "csv_ranges": {
+          "地番": {
+            "start": 822328,
+            "length": 20208
+          }
+        },
+        "name": "字膳前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.20767,
+          40.781986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0080000",
+        "oaza_cho": "字添ノ沢",
+        "oaza_cho_k": "アザソエノサワ",
+        "oaza_cho_r": "Soenosawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 842536,
+            "length": 6798
+          }
+        },
+        "name": "字添ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.104627,
+          40.82221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0081000",
+        "oaza_cho": "字袖ノ沢",
+        "oaza_cho_k": "アザソデノサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 849334,
+            "length": 2406
+          }
+        },
+        "name": "字袖ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.189273,
+          40.80826700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0082000",
+        "oaza_cho": "字外蛯沢後久保",
+        "oaza_cho_k": "アザソトエビサワウシロクボ",
+        "oaza_cho_r": "Sotoebisawa Ushirokubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 851740,
+            "length": 30057
+          }
+        },
+        "name": "字外蛯沢後久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22912,
+          40.79015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0083000",
+        "oaza_cho": "字外蛯沢北久保",
+        "oaza_cho_k": "アザソトエビサワキタクボ",
+        "oaza_cho_r": "Sotoebisawa Kitakubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 881797,
+            "length": 10502
+          }
+        },
+        "name": "字外蛯沢北久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.236416,
+          40.786839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0084000",
+        "oaza_cho": "字外蛯沢西平",
+        "oaza_cho_k": "アザソトエビサワニシタイ",
+        "oaza_cho_r": "Sotoebisawa Nishitai",
+        "csv_ranges": {
+          "地番": {
+            "start": 892299,
+            "length": 11937
+          }
+        },
+        "name": "字外蛯沢西平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.229589,
+          40.782272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0085000",
+        "oaza_cho": "字外蛯沢前平",
+        "oaza_cho_k": "アザソトエビサワマエタイ",
+        "oaza_cho_r": "Sotoebisawa Maetai",
+        "csv_ranges": {
+          "地番": {
+            "start": 904236,
+            "length": 25710
+          }
+        },
+        "name": "字外蛯沢前平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.241311,
+          40.781044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0086000",
+        "oaza_cho": "字高森",
+        "oaza_cho_k": "アザタカモリ",
+        "oaza_cho_r": "Takamori",
+        "csv_ranges": {
+          "地番": {
+            "start": 929946,
+            "length": 5901
+          }
+        },
+        "name": "字高森"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.220077,
+          40.864043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0087000",
+        "oaza_cho": "字滝沢",
+        "oaza_cho_k": "アザタキサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 935847,
+            "length": 1423
+          }
+        },
+        "name": "字滝沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.244905,
+          40.84858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0088000",
+        "oaza_cho": "字滝沢尻",
+        "oaza_cho_k": "アザタキサワジリ",
+        "csv_ranges": {
+          "地番": {
+            "start": 937270,
+            "length": 7377
+          }
+        },
+        "name": "字滝沢尻"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.260997,
+          40.799554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0089000",
+        "oaza_cho": "字滝沢平",
+        "oaza_cho_k": "アザタキサワタイラ",
+        "oaza_cho_r": "Takisawataira",
+        "csv_ranges": {
+          "地番": {
+            "start": 944647,
+            "length": 122960
+          }
+        },
+        "name": "字滝沢平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.274773,
+          40.800185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0090000",
+        "oaza_cho": "字滝沢山",
+        "oaza_cho_k": "アザタキサワヤマ",
+        "name": "字滝沢山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.241949,
+          40.843161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0091000",
+        "oaza_cho": "字舘",
+        "oaza_cho_k": "アザダテ",
+        "oaza_cho_r": "Date",
+        "csv_ranges": {
+          "地番": {
+            "start": 1067607,
+            "length": 3689
+          }
+        },
+        "name": "字舘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.258347,
+          40.765153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0092000",
+        "oaza_cho": "字蓼内久保",
+        "oaza_cho_k": "アザタテナイクボ",
+        "oaza_cho_r": "Tatenaikubo",
+        "name": "字蓼内久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.285464,
+          40.757223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0093000",
+        "oaza_cho": "字舘花",
+        "oaza_cho_k": "アザダテハナ",
+        "oaza_cho_r": "Datehana",
+        "csv_ranges": {
+          "地番": {
+            "start": 1071296,
+            "length": 6344
+          }
+        },
+        "name": "字舘花"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.212755,
+          40.77288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0094000",
+        "oaza_cho": "字田ノ沢",
+        "oaza_cho_k": "アザタノサワ",
+        "oaza_cho_r": "Tanosawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 1077640,
+            "length": 15796
+          }
+        },
+        "name": "字田ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.302638,
+          40.78903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0095000",
+        "oaza_cho": "字田ノ沢川添",
+        "oaza_cho_k": "アザタノサワカワゾイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1093436,
+            "length": 14684
+          }
+        },
+        "name": "字田ノ沢川添"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.301327,
+          40.777399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0096000",
+        "oaza_cho": "字田面木",
+        "oaza_cho_k": "アザタモギ",
+        "oaza_cho_r": "Tamogi",
+        "csv_ranges": {
+          "地番": {
+            "start": 1108120,
+            "length": 5883
+          }
+        },
+        "name": "字田面木"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.147528,
+          40.845087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0097000",
+        "oaza_cho": "字千曳",
+        "oaza_cho_k": "アザチビキ",
+        "oaza_cho_r": "Chibiki",
+        "csv_ranges": {
+          "地番": {
+            "start": 1114003,
+            "length": 2599
+          }
+        },
+        "name": "字千曳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.167791,
+          40.799910000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0098000",
+        "oaza_cho": "字千曳下山",
+        "oaza_cho_k": "アザチビキシモヤマ",
+        "oaza_cho_r": "Chibiki Shimoyama",
+        "csv_ranges": {
+          "地番": {
+            "start": 1116602,
+            "length": 8667
+          }
+        },
+        "name": "字千曳下山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.181537,
+          40.798348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0099000",
+        "oaza_cho": "字千曳向",
+        "oaza_cho_k": "アザチビキムカイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1125269,
+            "length": 1215
+          }
+        },
+        "name": "字千曳向"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.163969,
+          40.798469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0100000",
+        "oaza_cho": "字長者久保",
+        "oaza_cho_k": "アザチョウジャクボ",
+        "oaza_cho_r": "Chojakubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 1126484,
+            "length": 3286
+          }
+        },
+        "name": "字長者久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.157247,
+          40.847791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0101000",
+        "oaza_cho": "字堤尻",
+        "oaza_cho_k": "アザツツミジリ",
+        "oaza_cho_r": "Tsutsumijiri",
+        "csv_ranges": {
+          "地番": {
+            "start": 1129770,
+            "length": 10626
+          }
+        },
+        "name": "字堤尻"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.302184,
+          40.762508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0102000",
+        "oaza_cho": "字堤端",
+        "oaza_cho_k": "アザツツミハタ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1140396,
+            "length": 4880
+          }
+        },
+        "name": "字堤端"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18556,
+          40.792312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0103000",
+        "oaza_cho": "字鶴ケ崎",
+        "oaza_cho_k": "アザツルガサキ",
+        "oaza_cho_r": "Tsurugasaki",
+        "csv_ranges": {
+          "地番": {
+            "start": 1145276,
+            "length": 10727
+          }
+        },
+        "name": "字鶴ケ崎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.317382,
+          40.755174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0104000",
+        "oaza_cho": "字寺沢",
+        "oaza_cho_k": "アザテラサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1156003,
+            "length": 769
+          }
+        },
+        "name": "字寺沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.273427,
+          40.761593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0105000",
+        "oaza_cho": "字寺沢川端",
+        "oaza_cho_k": "アザテラサワカワハタ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1156772,
+            "length": 4191
+          }
+        },
+        "name": "字寺沢川端"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.265905,
+          40.760037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0106000",
+        "oaza_cho": "字塔ノ沢",
+        "oaza_cho_k": "アザトウノサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1160963,
+            "length": 2324
+          }
+        },
+        "name": "字塔ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.198244,
+          40.812265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0107000",
+        "oaza_cho": "字塔ノ沢山",
+        "oaza_cho_k": "アザトウノサワヤマ",
+        "oaza_cho_r": "Tonosawayama",
+        "csv_ranges": {
+          "地番": {
+            "start": 1163287,
+            "length": 46686
+          }
+        },
+        "name": "字塔ノ沢山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.222246,
+          40.779099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0108000",
+        "oaza_cho": "字戸田ノ沢",
+        "oaza_cho_k": "アザトダノサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1209973,
+            "length": 195
+          }
+        },
+        "name": "字戸田ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.139928,
+          40.849187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0109000",
+        "oaza_cho": "字土場",
+        "oaza_cho_k": "アザドバ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1210168,
+            "length": 7027
+          }
+        },
+        "name": "字土場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.259832,
+          40.790796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0110000",
+        "oaza_cho": "字土場川",
+        "oaza_cho_k": "アザドバガワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1217195,
+            "length": 23455
+          }
+        },
+        "name": "字土場川"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.253616,
+          40.778025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0111000",
+        "oaza_cho": "字土場川目",
+        "oaza_cho_k": "アザドバカワメ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1240650,
+            "length": 1288
+          }
+        },
+        "name": "字土場川目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.234012,
+          40.85456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0112000",
+        "oaza_cho": "字鳥口平",
+        "oaza_cho_k": "アザトリグチタイ",
+        "oaza_cho_r": "Toriguchitai",
+        "csv_ranges": {
+          "地番": {
+            "start": 1241938,
+            "length": 15140
+          }
+        },
+        "name": "字鳥口平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.262927,
+          40.767886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0113000",
+        "oaza_cho": "字長久保",
+        "oaza_cho_k": "アザナガクボ",
+        "oaza_cho_r": "Nagakubo",
+        "csv_ranges": {
+          "地番": {
+            "start": 1257078,
+            "length": 17547
+          }
+        },
+        "name": "字長久保"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.281121,
+          40.763663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0114000",
+        "oaza_cho": "字中津平",
+        "oaza_cho_k": "アザナカツダイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1274625,
+            "length": 4008
+          }
+        },
+        "name": "字中津平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.304666,
+          40.755595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0115000",
+        "oaza_cho": "字中村道ノ上",
+        "oaza_cho_k": "アザナカムラミチノカミ",
+        "oaza_cho_r": "Nakamura Michinokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 1278633,
+            "length": 24371
+          }
+        },
+        "name": "字中村道ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.280854,
+          40.838053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0116000",
+        "oaza_cho": "字中村道ノ下",
+        "oaza_cho_k": "アザナカムラミチノシモ",
+        "oaza_cho_r": "Nakamura Michinoshimo",
+        "csv_ranges": {
+          "地番": {
+            "start": 1303004,
+            "length": 29376
+          }
+        },
+        "name": "字中村道ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.299636,
+          40.829244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0117000",
+        "oaza_cho": "字夏焼",
+        "oaza_cho_k": "アザナツヤキ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1332380,
+            "length": 336
+          }
+        },
+        "name": "字夏焼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.199717,
+          40.819586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0118000",
+        "oaza_cho": "字楢木山",
+        "oaza_cho_k": "アザナラノキヤマ",
+        "name": "字楢木山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.250512,
+          40.85684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0119000",
+        "oaza_cho": "字西ノ沢",
+        "oaza_cho_k": "アザニシノサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1332716,
+            "length": 287
+          }
+        },
+        "name": "字西ノ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.181991,
+          40.853924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0120000",
+        "oaza_cho": "字沼添左ノ平",
+        "oaza_cho_k": "アザヌマソエサノタイラ",
+        "oaza_cho_r": "Numasoesanotaira",
+        "csv_ranges": {
+          "地番": {
+            "start": 1333003,
+            "length": 8192
+          }
+        },
+        "name": "字沼添左ノ平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29185,
+          40.81741100000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0121000",
+        "oaza_cho": "字子ノ鳥平",
+        "oaza_cho_k": "アザネノトリタイ",
+        "oaza_cho_r": "Nenotoritai",
+        "csv_ranges": {
+          "地番": {
+            "start": 1341195,
+            "length": 2815
+          }
+        },
+        "name": "字子ノ鳥平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.270161,
+          40.818737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0122000",
+        "oaza_cho": "字野田頭",
+        "oaza_cho_k": "アザノダガシラ",
+        "oaza_cho_r": "Nodagashira",
+        "csv_ranges": {
+          "地番": {
+            "start": 1344010,
+            "length": 12249
+          }
+        },
+        "name": "字野田頭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.274176,
+          40.821799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0123000",
+        "oaza_cho": "字野田頭山",
+        "oaza_cho_k": "アザノダガシラヤマ",
+        "oaza_cho_r": "Nodagashirayama",
+        "csv_ranges": {
+          "地番": {
+            "start": 1356259,
+            "length": 939
+          }
+        },
+        "name": "字野田頭山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.280919,
+          40.819818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0124000",
+        "oaza_cho": "字野田尻",
+        "oaza_cho_k": "アザノダジリ",
+        "oaza_cho_r": "Nodajiri",
+        "csv_ranges": {
+          "地番": {
+            "start": 1357198,
+            "length": 4031
+          }
+        },
+        "name": "字野田尻"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.278832,
+          40.816767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0125000",
+        "oaza_cho": "字浜家苫",
+        "oaza_cho_k": "アザハマケトバ",
+        "oaza_cho_r": "Hamaketoba",
+        "csv_ranges": {
+          "地番": {
+            "start": 1361229,
+            "length": 10031
+          }
+        },
+        "name": "字浜家苫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.316766,
+          40.771479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0126000",
+        "oaza_cho": "字浜台",
+        "oaza_cho_k": "アザハマダイ",
+        "oaza_cho_r": "Hamadai",
+        "csv_ranges": {
+          "地番": {
+            "start": 1371260,
+            "length": 6057
+          }
+        },
+        "name": "字浜台"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.291672,
+          40.809745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0127000",
+        "oaza_cho": "字林ノ下",
+        "oaza_cho_k": "アザハヤシノシタ",
+        "oaza_cho_r": "Hayashinoshita",
+        "csv_ranges": {
+          "地番": {
+            "start": 1377317,
+            "length": 3877
+          }
+        },
+        "name": "字林ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.111807,
+          40.824865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0128000",
+        "oaza_cho": "字日影林ノ上山",
+        "oaza_cho_k": "アザヒカゲハヤシノカミヤマ",
+        "oaza_cho_r": "Hikagehayashinokamiyama",
+        "csv_ranges": {
+          "地番": {
+            "start": 1381194,
+            "length": 25528
+          }
+        },
+        "name": "字日影林ノ上山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.274519,
+          40.782347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0129001",
+        "oaza_cho": "旭北",
+        "oaza_cho_k": "アサヒキタ",
+        "oaza_cho_r": "Asahikita",
+        "chome": "一丁目",
+        "chome_n": 1,
+        "csv_ranges": {
+          "地番": {
+            "start": 1406722,
+            "length": 15051
+          }
+        },
+        "name": "旭北一丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.265428,
+          40.734414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0129002",
+        "oaza_cho": "旭北",
+        "oaza_cho_k": "アサヒキタ",
+        "oaza_cho_r": "Asahikita",
+        "chome": "二丁目",
+        "chome_n": 2,
+        "csv_ranges": {
+          "地番": {
+            "start": 1421773,
+            "length": 14507
+          }
+        },
+        "name": "旭北二丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.26764700000004,
+          40.73662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0129003",
+        "oaza_cho": "旭北",
+        "oaza_cho_k": "アサヒキタ",
+        "oaza_cho_r": "Asahikita",
+        "chome": "三丁目",
+        "chome_n": 3,
+        "csv_ranges": {
+          "地番": {
+            "start": 1436280,
+            "length": 7243
+          }
+        },
+        "name": "旭北三丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.272008,
+          40.73721700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0129004",
+        "oaza_cho": "旭北",
+        "oaza_cho_k": "アサヒキタ",
+        "oaza_cho_r": "Asahikita",
+        "chome": "四丁目",
+        "chome_n": 4,
+        "csv_ranges": {
+          "地番": {
+            "start": 1443523,
+            "length": 9944
+          }
+        },
+        "name": "旭北四丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.276295,
+          40.739024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0130001",
+        "oaza_cho": "旭南",
+        "oaza_cho_k": "アサヒミナミ",
+        "oaza_cho_r": "Asahiminami",
+        "chome": "一丁目",
+        "chome_n": 1,
+        "csv_ranges": {
+          "地番": {
+            "start": 1453467,
+            "length": 10228
+          }
+        },
+        "name": "旭南一丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.271603,
+          40.729376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0130002",
+        "oaza_cho": "旭南",
+        "oaza_cho_k": "アサヒミナミ",
+        "oaza_cho_r": "Asahiminami",
+        "chome": "二丁目",
+        "chome_n": 2,
+        "csv_ranges": {
+          "地番": {
+            "start": 1463695,
+            "length": 6016
+          }
+        },
+        "name": "旭南二丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27302,
+          40.731979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0130003",
+        "oaza_cho": "旭南",
+        "oaza_cho_k": "アサヒミナミ",
+        "oaza_cho_r": "Asahiminami",
+        "chome": "三丁目",
+        "chome_n": 3,
+        "csv_ranges": {
+          "地番": {
+            "start": 1469711,
+            "length": 7345
+          }
+        },
+        "name": "旭南三丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27562,
+          40.732636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0130004",
+        "oaza_cho": "旭南",
+        "oaza_cho_k": "アサヒミナミ",
+        "oaza_cho_r": "Asahiminami",
+        "chome": "四丁目",
+        "chome_n": 4,
+        "csv_ranges": {
+          "地番": {
+            "start": 1477056,
+            "length": 9710
+          }
+        },
+        "name": "旭南四丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.278155,
+          40.734003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0131000",
+        "oaza_cho": "字寒水",
+        "oaza_cho_k": "アザヒヤミズ",
+        "oaza_cho_r": "Hiyamizu",
+        "csv_ranges": {
+          "地番": {
+            "start": 1486766,
+            "length": 12902
+          }
+        },
+        "name": "字寒水"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.226816,
+          40.806632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0132000",
+        "oaza_cho": "字寒水下",
+        "oaza_cho_k": "アザヒヤミズシモ",
+        "oaza_cho_r": "Hiyamizushimo",
+        "name": "字寒水下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.241815,
+          40.81119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0133000",
+        "oaza_cho": "字寒水山",
+        "oaza_cho_k": "アザヒヤミズヤマ",
+        "oaza_cho_r": "Hiyamizuyama",
+        "csv_ranges": {
+          "地番": {
+            "start": 1499668,
+            "length": 20842
+          }
+        },
+        "name": "字寒水山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.244339,
+          40.801709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0134000",
+        "oaza_cho": "字敏蕩沢頭",
+        "oaza_cho_k": "アザビンドウサワガシラ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1520510,
+            "length": 487
+          }
+        },
+        "name": "字敏蕩沢頭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.212095,
+          40.79652900000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0135000",
+        "oaza_cho": "字藤木沢",
+        "oaza_cho_k": "アザフジキサワ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1520997,
+            "length": 971
+          }
+        },
+        "name": "字藤木沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.250301,
+          40.873034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0136000",
+        "oaza_cho": "字夫雑原",
+        "oaza_cho_k": "アザブゾウハラ",
+        "oaza_cho_r": "Buzohara",
+        "csv_ranges": {
+          "地番": {
+            "start": 1521968,
+            "length": 63719
+          }
+        },
+        "name": "字夫雑原"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.154999,
+          40.809418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0137000",
+        "oaza_cho": "字夫雑原下山",
+        "oaza_cho_k": "アザブゾウハラシモヤマ",
+        "oaza_cho_r": "Buzoharashimoyama",
+        "csv_ranges": {
+          "地番": {
+            "start": 1585687,
+            "length": 31890
+          }
+        },
+        "name": "字夫雑原下山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.173617,
+          40.825997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0138000",
+        "oaza_cho": "字夫雑原山中",
+        "oaza_cho_k": "アザブゾウハラヤマナカ",
+        "name": "字夫雑原山中"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.188305,
+          40.811519000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0139000",
+        "oaza_cho": "字船ケ沢",
+        "oaza_cho_k": "アザフネガサワ",
+        "oaza_cho_r": "Funegasawa",
+        "name": "字船ケ沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.313969,
+          40.761449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0140000",
+        "oaza_cho": "字古屋敷",
+        "oaza_cho_k": "アザフルヤシキ",
+        "oaza_cho_r": "Furuyashiki",
+        "csv_ranges": {
+          "地番": {
+            "start": 1617577,
+            "length": 6889
+          }
+        },
+        "name": "字古屋敷"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.299229,
+          40.753517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0141000",
+        "oaza_cho": "字細津",
+        "oaza_cho_k": "アザホソツ",
+        "oaza_cho_r": "Hosotsu",
+        "csv_ranges": {
+          "地番": {
+            "start": 1624466,
+            "length": 6475
+          }
+        },
+        "name": "字細津"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.253976,
+          40.839079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0142000",
+        "oaza_cho": "字細津橋ノ上",
+        "oaza_cho_k": "アザホソツハシノカミ",
+        "oaza_cho_r": "Hosotsuhashinokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 1630941,
+            "length": 23043
+          }
+        },
+        "name": "字細津橋ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.262307,
+          40.842594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0143000",
+        "oaza_cho": "字𠏹沢",
+        "oaza_cho_k": "アザホトケサワ",
+        "name": "字𠏹沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.217873,
+          40.78417900000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0144000",
+        "oaza_cho": "字保戸沢家ノ後",
+        "oaza_cho_k": "アザホドサワイエノウシロ",
+        "oaza_cho_r": "Hodosawa Ienoshiro",
+        "csv_ranges": {
+          "地番": {
+            "start": 1653984,
+            "length": 10043
+          }
+        },
+        "name": "字保戸沢家ノ後"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.248486,
+          40.793959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0145000",
+        "oaza_cho": "字保戸沢家ノ上",
+        "oaza_cho_k": "アザホドサワイエノカミ",
+        "oaza_cho_r": "Hodosawa Ienokami",
+        "csv_ranges": {
+          "地番": {
+            "start": 1664027,
+            "length": 2419
+          }
+        },
+        "name": "字保戸沢家ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.246001,
+          40.791735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0146000",
+        "oaza_cho": "字保戸沢家ノ前",
+        "oaza_cho_k": "アザホドサワイエノマエ",
+        "oaza_cho_r": "Hodosawa Ienomae",
+        "csv_ranges": {
+          "地番": {
+            "start": 1666446,
+            "length": 30030
+          }
+        },
+        "name": "字保戸沢家ノ前"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.247864,
+          40.788561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0147000",
+        "oaza_cho": "字保戸沢道橋ノ上",
+        "oaza_cho_k": "アザホドサワミチハシノカミ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1696476,
+            "length": 19402
+          }
+        },
+        "name": "字保戸沢道橋ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.242619,
+          40.798076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0148000",
+        "oaza_cho": "字洞内沢頭",
+        "oaza_cho_k": "アザホラナイサワガシラ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1715878,
+            "length": 689
+          }
+        },
+        "name": "字洞内沢頭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.179165,
+          40.861329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0149000",
+        "oaza_cho": "字間手場",
+        "oaza_cho_k": "アザマテバ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1716567,
+            "length": 28082
+          }
+        },
+        "name": "字間手場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.271761,
+          40.756135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0150000",
+        "oaza_cho": "字饅頭長根",
+        "oaza_cho_k": "アザマンジュナガネ",
+        "oaza_cho_r": "Manjunagane",
+        "name": "字饅頭長根"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.211001,
+          40.835697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0151000",
+        "oaza_cho": "字水尻",
+        "oaza_cho_k": "アザミズシリ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1744649,
+            "length": 16400
+          }
+        },
+        "name": "字水尻"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.26080900000002,
+          40.779589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0152000",
+        "oaza_cho": "字水流",
+        "oaza_cho_k": "アザミズナガレ",
+        "oaza_cho_r": "Mizunagare",
+        "csv_ranges": {
+          "地番": {
+            "start": 1761049,
+            "length": 5488
+          }
+        },
+        "name": "字水流"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.19885,
+          40.86005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0153000",
+        "oaza_cho": "字水喰",
+        "oaza_cho_k": "アザミズハミ",
+        "oaza_cho_r": "Mizuhami",
+        "csv_ranges": {
+          "地番": {
+            "start": 1766537,
+            "length": 9098
+          }
+        },
+        "name": "字水喰"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.274017,
+          40.834025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0154000",
+        "oaza_cho": "字水喰向",
+        "oaza_cho_k": "アザミズハミムカイ",
+        "oaza_cho_r": "Mizuhamimukai",
+        "csv_ranges": {
+          "地番": {
+            "start": 1775635,
+            "length": 9765
+          }
+        },
+        "name": "字水喰向"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.275791,
+          40.828623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0155000",
+        "oaza_cho": "字道合",
+        "oaza_cho_k": "アザミチアイ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1785400,
+            "length": 1740
+          }
+        },
+        "name": "字道合"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.216122,
+          40.868941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0156000",
+        "oaza_cho": "字道ノ北",
+        "oaza_cho_k": "アザミチノキタ",
+        "oaza_cho_r": "Michinokita",
+        "csv_ranges": {
+          "地番": {
+            "start": 1787140,
+            "length": 3886
+          }
+        },
+        "name": "字道ノ北"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.295466,
+          40.758564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0157000",
+        "oaza_cho": "字向平",
+        "oaza_cho_k": "アザムカイタイ",
+        "oaza_cho_r": "Mukaitai",
+        "csv_ranges": {
+          "地番": {
+            "start": 1791026,
+            "length": 27426
+          }
+        },
+        "name": "字向平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.154107,
+          40.798539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0158000",
+        "oaza_cho": "字向籏屋",
+        "oaza_cho_k": "アザムカイハタヤ",
+        "oaza_cho_r": "Mukaihataya",
+        "csv_ranges": {
+          "地番": {
+            "start": 1818452,
+            "length": 6435
+          }
+        },
+        "name": "字向籏屋"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.210321,
+          40.788395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0159000",
+        "oaza_cho": "字向屋敷",
+        "oaza_cho_k": "アザムカイヤシキ",
+        "oaza_cho_r": "Mukaiyashiki",
+        "csv_ranges": {
+          "地番": {
+            "start": 1824887,
+            "length": 3667
+          }
+        },
+        "name": "字向屋敷"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.207917,
+          40.794955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0160000",
+        "oaza_cho": "字萠出道ノ上",
+        "oaza_cho_k": "アザモダシミチノカミ",
+        "name": "字萠出道ノ上"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.246995,
+          40.82798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0161000",
+        "oaza_cho": "字萠出道ノ下",
+        "oaza_cho_k": "アザモダシミチノシモ",
+        "name": "字萠出道ノ下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.249169,
+          40.835643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0162000",
+        "oaza_cho": "字谷地頭",
+        "oaza_cho_k": "アザヤジガシラ",
+        "oaza_cho_r": "Yajigashira",
+        "csv_ranges": {
+          "地番": {
+            "start": 1828554,
+            "length": 2692
+          }
+        },
+        "name": "字谷地頭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.219509,
+          40.87738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0163000",
+        "oaza_cho": "字弥太郎",
+        "oaza_cho_k": "アザヤタロウ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1831246,
+            "length": 13593
+          }
+        },
+        "name": "字弥太郎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.257663,
+          40.759532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0164000",
+        "oaza_cho": "字柳沢",
+        "oaza_cho_k": "アザヤナギザワ",
+        "oaza_cho_r": "Yanagizawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 1844839,
+            "length": 19616
+          }
+        },
+        "name": "字柳沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.193031,
+          40.77561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0165000",
+        "oaza_cho": "字山添",
+        "oaza_cho_k": "アザヤマゾイ",
+        "oaza_cho_r": "Yamazoi",
+        "csv_ranges": {
+          "地番": {
+            "start": 1864455,
+            "length": 7430
+          }
+        },
+        "name": "字山添"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.122791,
+          40.833132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0166000",
+        "oaza_cho": "字山下",
+        "oaza_cho_k": "アザヤマノシタ",
+        "name": "字山下"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.202723,
+          40.798058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0167000",
+        "oaza_cho": "字湯沢",
+        "oaza_cho_k": "アザユザワ",
+        "oaza_cho_r": "Yuzawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 1871885,
+            "length": 2840
+          }
+        },
+        "name": "字湯沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13662,
+          40.833405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0168000",
+        "oaza_cho": "字湯沢平",
+        "oaza_cho_k": "アザユザワタイラ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1874725,
+            "length": 2980
+          }
+        },
+        "name": "字湯沢平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.114436,
+          40.833079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0169000",
+        "oaza_cho": "字湯田平",
+        "oaza_cho_k": "アザユダタイラ",
+        "csv_ranges": {
+          "地番": {
+            "start": 1877705,
+            "length": 12396
+          }
+        },
+        "name": "字湯田平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.114682,
+          40.839953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0170000",
+        "oaza_cho": "字横沢",
+        "oaza_cho_k": "アザヨコサワ",
+        "oaza_cho_r": "Yokosawa",
+        "csv_ranges": {
+          "地番": {
+            "start": 1890101,
+            "length": 3651
+          }
+        },
+        "name": "字横沢"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.201756,
+          40.847696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0171000",
+        "oaza_cho": "字横沢頭",
+        "oaza_cho_k": "アザヨコサワガシラ",
+        "oaza_cho_r": "Yokosawagashira",
+        "csv_ranges": {
+          "地番": {
+            "start": 1893752,
+            "length": 3333
+          }
+        },
+        "name": "字横沢頭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.194403,
+          40.854109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0172000",
+        "oaza_cho": "字横沢山",
+        "oaza_cho_k": "アザヨコサワヤマ",
+        "oaza_cho_r": "Yokosawayama",
+        "csv_ranges": {
+          "地番": {
+            "start": 1897085,
+            "length": 20958
+          }
+        },
+        "name": "字横沢山"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.231467,
+          40.830357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0173000",
+        "oaza_cho": "字横志多",
+        "oaza_cho_k": "アザヨコシダ",
+        "oaza_cho_r": "Yokoshida",
+        "csv_ranges": {
+          "地番": {
+            "start": 1918043,
+            "length": 9629
+          }
+        },
+        "name": "字横志多"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.323898,
+          40.757656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0174000",
+        "oaza_cho": "字和山平",
+        "oaza_cho_k": "アザワヤマタイラ",
+        "oaza_cho_r": "Wayamataira",
+        "csv_ranges": {
+          "地番": {
+            "start": 1927672,
+            "length": 5576
+          }
+        },
+        "name": "字和山平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.293927,
+          40.782297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0175000",
+        "oaza_cho": "大字上野",
+        "oaza_cho_k": "オオアザウワノ",
+        "oaza_cho_r": "Uwano",
+        "name": "大字上野"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.249514,
+          40.735432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0176000",
+        "oaza_cho": "大字大浦",
+        "oaza_cho_k": "オオアザオオウラ",
+        "oaza_cho_r": "Oura",
+        "name": "大字大浦"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.288172,
+          40.719577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0177000",
+        "oaza_cho": "大字新舘",
+        "oaza_cho_k": "オオアザニイダテ",
+        "oaza_cho_r": "Niidate",
+        "name": "大字新舘"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.193802,
+          40.698906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0178001",
+        "oaza_cho": "上北北",
+        "oaza_cho_k": "カミキタキタ",
+        "oaza_cho_r": "Kamikitakita",
+        "chome": "一丁目",
+        "chome_n": 1,
+        "csv_ranges": {
+          "地番": {
+            "start": 3042444,
+            "length": 14310
+          }
+        },
+        "name": "上北北一丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.261481,
+          40.733212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0178002",
+        "oaza_cho": "上北北",
+        "oaza_cho_k": "カミキタキタ",
+        "oaza_cho_r": "Kamikitakita",
+        "chome": "二丁目",
+        "chome_n": 2,
+        "csv_ranges": {
+          "地番": {
+            "start": 3056754,
+            "length": 16319
+          }
+        },
+        "name": "上北北二丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.254097,
+          40.731923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0178003",
+        "oaza_cho": "上北北",
+        "oaza_cho_k": "カミキタキタ",
+        "oaza_cho_r": "Kamikitakita",
+        "chome": "三丁目",
+        "chome_n": 3,
+        "csv_ranges": {
+          "地番": {
+            "start": 3073073,
+            "length": 6997
+          }
+        },
+        "name": "上北北三丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.253065,
+          40.729486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0179001",
+        "oaza_cho": "上北南",
+        "oaza_cho_k": "カミキタミナミ",
+        "oaza_cho_r": "Kamikitaminami",
+        "chome": "一丁目",
+        "chome_n": 1,
+        "csv_ranges": {
+          "地番": {
+            "start": 3080070,
+            "length": 8294
+          }
+        },
+        "name": "上北南一丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.269352,
+          40.728939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0179002",
+        "oaza_cho": "上北南",
+        "oaza_cho_k": "カミキタミナミ",
+        "oaza_cho_r": "Kamikitaminami",
+        "chome": "二丁目",
+        "chome_n": 2,
+        "csv_ranges": {
+          "地番": {
+            "start": 3088364,
+            "length": 18611
+          }
+        },
+        "name": "上北南二丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.266787,
+          40.72859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0179003",
+        "oaza_cho": "上北南",
+        "oaza_cho_k": "カミキタミナミ",
+        "oaza_cho_r": "Kamikitaminami",
+        "chome": "三丁目",
+        "chome_n": 3,
+        "csv_ranges": {
+          "地番": {
+            "start": 3106975,
+            "length": 8284
+          }
+        },
+        "name": "上北南三丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.260202,
+          40.728288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "machiaza_id": "0179004",
+        "oaza_cho": "上北南",
+        "oaza_cho_k": "カミキタミナミ",
+        "oaza_cho_r": "Kamikitaminami",
+        "chome": "四丁目",
+        "chome_n": 4,
+        "csv_ranges": {
+          "地番": {
+            "start": 3115259,
+            "length": 5004
+          }
+        },
+        "name": "上北南四丁目"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.25699,
+          40.72742
+        ]
+      }
+    }
+  ]
+}
